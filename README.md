@@ -9,4 +9,10 @@ Each cell in the infinite grid depends on its 8 nieghboring cells to live in the
 
 All other cells will be in the 'dead' state in the next grid state.
 
-This program creates a visual display and simulation for the user that follows the rules of Conway's Game of Life. You can draw an initial pattern by toggling a cell with your left mouse click. From there, you can run an animation of the following evolving grid state, or manually flip through each grid state at your own pace. Enjoy.
+## Running the game
+### Prerequisites
+* Python 3.7 or higher
+
+After downloading the project, run golux.py and the game will open.
+
+This program creates a visual display and simulation which follows the rules of Conway's Game of Life. You can draw an initial pattern by toggling a cell with your left mouse click. From there, by toggling the 'start'/'stop' button you can run an animation of the following evolving grid state, or manually flip through each grid state at your own pace with the arrow. Enjoy.
